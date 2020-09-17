@@ -4,8 +4,10 @@ Optimization Searching Algorithm implemented with Quantum Searching Algorithm an
 ## Grover
 Grover搜索算法在数据库总大小为𝑵、解的个数为𝒕时总时间复杂度为𝑶(√(𝑵∕𝒕))
 ![Grover迭代G的线路](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%871.png) 
-Grover搜索算法的线路框架![Grover搜索算法的线路框架](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%872.png)
-量子搜索算法的线路框架![量子搜索算法的线路框架](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%873.png)
+Grover搜索算法的线路框架  
+![Grover搜索算法的线路框架](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%872.png)
+量子搜索算法的线路框架  
+![量子搜索算法的线路框架](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%873.png)
 
 ## BBHT
 [BBHT](https://arxiv.org/pdf/quant-ph/9605034.pdf)最优查找算法基于Grover搜索算法，能够解决搜索问题中解的个数未知的情况。其基本思想是确定√𝑁（𝑁为搜索规模）为算法迭代上界，通过不断迭代更新下界，直到找到一个解为止。
