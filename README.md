@@ -8,6 +8,6 @@ BBHT在解的个数不定时找到一个解的时间是𝑂(√(𝑁∕𝑡))
 ![BBHT算法应用于0-1背包问题](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%872.png)  
 
 ### BBHT-GA & GA 实验对比
-![经典遗传算法与BBHT算法迭代次数对比分析及BBHT算法过程中Grover算法迭代次数](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%873.png)  
-![经典遗传算法与BBHT算法搜索命中率对比及搜索平均适应值/最优适应值对比]
-(https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%874.png)  
+![经典遗传算法与BBHT算法迭代次数对比分析及BBHT算法过程中Grover算法迭代次数](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%873.png)
+![经典遗传算法与BBHT算法搜索命中率对比及搜索平均适应值/最优适应值对比](https://github.com/ZorrowHu/BBHT-GA/blob/master/BBHT/photo/%E5%9B%BE%E7%89%874.png)
+
