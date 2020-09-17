@@ -1,0 +1,11 @@
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\bin\Debug\netcoreapp2.0\BBHT.deps.json
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\bin\Debug\netcoreapp2.0\BBHT.runtimeconfig.json
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\bin\Debug\netcoreapp2.0\BBHT.runtimeconfig.dev.json
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\bin\Debug\netcoreapp2.0\BBHT.dll
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\bin\Debug\netcoreapp2.0\BBHT.pdb
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\obj\Debug\netcoreapp2.0\BBHT.csprojAssemblyReference.cache
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\obj\Debug\netcoreapp2.0\BBHT.csproj.CoreCompileInputs.cache
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\obj\Debug\netcoreapp2.0\BBHT.AssemblyInfoInputs.cache
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\obj\Debug\netcoreapp2.0\BBHT.AssemblyInfo.cs
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\obj\Debug\netcoreapp2.0\BBHT.dll
+E:\学习资料\genetic algorithm\Q#\BBHT-III\BBHT-III\obj\Debug\netcoreapp2.0\BBHT.pdb
